@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kkpiggg
+- 👋 Hi, I’m @kkwork89450
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning blckchain development, full stack web development, data analysis
+- 🌱 I’m currently learning blckchain development, data analysis
 
 <!--
 - 💞️ I’m looking to collaborate on ...
